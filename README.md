@@ -1,6 +1,5 @@
 # my-new-project
 Building AI 
-larPost
 
 Building AI course project
 
@@ -17,7 +16,6 @@ It has real consequences. In the same survey, one in four people said they had a
 Some groups are hit much harder. According to the LEO 2018 study by the University of Hamburg, about 6.2 million German-speaking adults (12.1 % of 18 to 64 year olds) have low literacy. People who are still learning German and many older people face the same barrier.
 The problem is old. A 2008 survey by the Gesellschaft für deutsche Sprache already found that 86 % of people have difficulties with the language used by authorities, courts and lawyers.
 
-My personal motivation: [add one or two sentences here about why this topic matters to you].
 
 The topic is interesting because the task is narrow and well defined. Most official letters follow a small number of patterns, and what the reader needs is always the same: what is this, what do I have to do, and what is the deadline?
 
